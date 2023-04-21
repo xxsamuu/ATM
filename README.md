@@ -16,6 +16,7 @@ To run the program, you need to have C++ installed on your computer. You can dow
 
 ```bash
 git clone https://github.com/your_username/ATM-machine-simulator.git
+```
 
 Once you have the source code, you can compile it using any C++ compiler.
 
