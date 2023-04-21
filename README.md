@@ -15,7 +15,7 @@ This project is a C++ program that simulates an ATM machine with full authentica
 To run the program, you need to have C++ installed on your computer. You can download the source code from the Github repository:
 
 ```bash
-git clone https://github.com/your_username/ATM-machine-simulator.git
+git clone https://github.com/xxsamuu/ATM
 ```
 
 Once you have the source code, you can compile it using any C++ compiler.
