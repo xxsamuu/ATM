@@ -19,6 +19,10 @@ git clone https://github.com/xxsamuu/ATM
 ```
 
 Once you have the source code, you can compile it using any C++ compiler.
+For example, as of GCC, you can compile the code with this command:
+```bash
+g++ -g main.cpp ./implementation/*.cpp -o output
+```
 
 ## Usage
 
