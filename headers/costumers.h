@@ -16,7 +16,7 @@ public:
 private:
     string Username;
     int Pin;
-    double Balance;
+    int Balance;
 };
 
 #endif
