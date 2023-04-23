@@ -176,8 +176,10 @@ bool isNumFormatGood(string input){
 
 void transaction_handler(Transactions clientHandler, string action){
     /*
-    this function takes as input the desired amount to deposit
-    and checks if that input is a number.
+    This function is to handle both deposit and withdrawal actions on the account.
+    It takes as input the following:
+        - Transactions class: this is to make sure the actions are made to the right user.
+        - "action": to call different methods based on user request.
     */
     string amount;
     cout 
